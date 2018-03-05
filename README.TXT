@@ -8,5 +8,5 @@ PROJECT TITLE:TicTacToe--Gui
 PURPOSE OF PROJECT: To create a tictactoe game using graphical user interface
 VERSION or DATE:
 HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+AUTHORS: Ahmed Guura
+USER INSTRUCTIONS: 
